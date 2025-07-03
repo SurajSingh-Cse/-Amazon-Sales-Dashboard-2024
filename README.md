@@ -58,7 +58,7 @@ This dashboard provides a visual representation of **Amazon Sales Data for the y
 
 ## 📁 File Details
 
-- `Screenshot 2025-07-03 231705.png` – Final Dashboard Image
+Amazon Sales Dashboard
 
 ---
 
