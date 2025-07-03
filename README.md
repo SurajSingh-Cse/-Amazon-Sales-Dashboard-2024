@@ -2,6 +2,13 @@
 
 Welcome to the **Amazon Sales Dashboard Project**, where sales data from various Indian states and cities is analyzed and visualized using Microsoft Excel.
 
+![Screenshot 2025-07-03 233819](https://github.com/user-attachments/assets/b4c7e68f-7c61-4103-9a87-3668eeaedf59)
+![Screenshot 2025-07-03 234251](https://github.com/user-attachments/assets/8ed4b33e-e676-484b-bb47-93ed9534b61c)
+![Screenshot 2025-07-03 233901](https://github.com/user-attachments/assets/0c9a492e-c854-4d89-88cc-7fab99549c39)
+![Screenshot 2025-07-03 233921](https://github.com/user-attachments/assets/17b82e73-f364-4aa3-b5b4-8c68f3654d13)
+
+
+
 ![Dashboard Preview](Screenshot%202025-07-03%20231705.png)
 
 ---
@@ -58,7 +65,7 @@ This dashboard provides a visual representation of **Amazon Sales Data for the y
 
 ## 📁 File Details
 
-Amazon Sales Dashboard
+Amazon Sales Dashboard.Xlsx
 
 ---
 
@@ -82,6 +89,19 @@ Amazon Sales Dashboard
 ## 📬 Contact
 
 Feel free to reach out if you want to collaborate or discuss data visualization!
+![amazon_15527760](https://github.com/user-attachments/assets/7005e2dd-44c0-4ff0-a046-a0ee88438d38)
+![amazon-pay_5968269](https://github.com/user-attachments/assets/7478c989-9851-41ca-9e6d-ab834427409f)
+![buildings_9153710](https://github.com/user-attachments/assets/bb5a9a05-5545-4e24-b440-64ea992d8844)
+![coins_905841](https://github.com/user-attachments/assets/c70916ba-3f8e-4383-83ae-cb3305b61870)
+![payment_11378326](https://github.com/user-attachments/assets/32e5561e-2d9e-476a-9c79-88e59c65c320)
+![sales_15565473](https://github.com/user-attachments/assets/c4873d4e-2e88-4cb2-b2a8-5c18933e385c)
+![social_14063250](https://github.com/user-attachments/assets/4acf181f-bcba-4b4d-b066-284fecefda23)
+![vecteezy_amazon-logo-png-amazon-icon-transparent-png_19766240 (1)](https://github.com/user-attachments/assets/a49ff749-80f9-4fbb-8f4b-6879c593bb45)
+
+
+
+
+
 
 ---
 
