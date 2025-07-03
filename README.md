@@ -1,14 +1,18 @@
 # 🛒 Amazon Sales Dashboard 2024
 
 Welcome to the **Amazon Sales Dashboard Project**, where sales data from various Indian states and cities is analyzed and visualized using Microsoft Excel.
-
+## Datasets(Sales Data)
 ![Screenshot 2025-07-03 233819](https://github.com/user-attachments/assets/b4c7e68f-7c61-4103-9a87-3668eeaedf59)
+
+## Data Model
 ![Screenshot 2025-07-03 234251](https://github.com/user-attachments/assets/8ed4b33e-e676-484b-bb47-93ed9534b61c)
+
+## Pivot Tables
 ![Screenshot 2025-07-03 233901](https://github.com/user-attachments/assets/0c9a492e-c854-4d89-88cc-7fab99549c39)
 ![Screenshot 2025-07-03 233921](https://github.com/user-attachments/assets/17b82e73-f364-4aa3-b5b4-8c68f3654d13)
 
 
-
+## Dashboard
 ![Dashboard Preview](Screenshot%202025-07-03%20231705.png)
 
 ---
