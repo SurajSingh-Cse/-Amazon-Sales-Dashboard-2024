@@ -89,13 +89,7 @@ Amazon Sales Dashboard.Xlsx
 ## 📬 Contact
 
 Feel free to reach out if you want to collaborate or discuss data visualization!
-![amazon_15527760](https://github.com/user-attachments/assets/7005e2dd-44c0-4ff0-a046-a0ee88438d38)
-![amazon-pay_5968269](https://github.com/user-attachments/assets/7478c989-9851-41ca-9e6d-ab834427409f)
-![buildings_9153710](https://github.com/user-attachments/assets/bb5a9a05-5545-4e24-b440-64ea992d8844)
-![coins_905841](https://github.com/user-attachments/assets/c70916ba-3f8e-4383-83ae-cb3305b61870)
-![payment_11378326](https://github.com/user-attachments/assets/32e5561e-2d9e-476a-9c79-88e59c65c320)
-![sales_15565473](https://github.com/user-attachments/assets/c4873d4e-2e88-4cb2-b2a8-5c18933e385c)
-![social_14063250](https://github.com/user-attachments/assets/4acf181f-bcba-4b4d-b066-284fecefda23)
+
 ![vecteezy_amazon-logo-png-amazon-icon-transparent-png_19766240 (1)](https://github.com/user-attachments/assets/a49ff749-80f9-4fbb-8f4b-6879c593bb45)
 
 
